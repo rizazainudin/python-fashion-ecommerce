@@ -1,1 +1,1 @@
-# python-projects
+# Fashion E-Commerce Inventories
